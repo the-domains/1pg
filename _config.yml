@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.5721782
+  lightness: 0.4731183
+  brandStrength: 0
+  brandColors:
+    - '#0A1B2C'
+    - '#314253'
+    - '#087CB1'
+    - '#DBDCD7'
+    - '#6C94B8'
+  rhythmicContrast: 0.3387097
+typography_spectrum: 0.1615318
+name: 1pg
